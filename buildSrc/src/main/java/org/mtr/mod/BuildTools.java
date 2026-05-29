@@ -112,7 +112,7 @@ public class BuildTools {
 		// TODO latest version not working
 		if (minecraftVersion.equals("1.19.2")) {
 			return loader + "-5.32.0";
-		} else if (minecraftVersion.equals("1.20.1")) {
+		} else if (minecraftVersion.equals("26.1.2")) {
 			return loader + "-8.17.0";
 		}
 		final String modIdString = "wthit";
